@@ -24,7 +24,7 @@ namespace AnagramA.Tests
     }
 
     [TestMethod]
-    public void IsWordsArray_Sorted()
+    public void getAnagrams_TwoAnagrams()
     {
       //Arrange
       string word1 = "aaanms";
@@ -33,13 +33,14 @@ namespace AnagramA.Tests
       List<string> newList = new List<string> { word1, word2 };
 
       //Act
-      string result = Anagram.IsAnagram(name,newList);
+      string[] result = Anagram.getAnagrams(name, newList.ToArray());
+      
       //Assert
-      CollectionAssert.AreEqual(newList,result);
-      // Anagram newItem = new Anagram();
-      // string name = "manasa";
-      // Assert.AreEqual("aaamns", Anagram.InOrder(name));
-    }
+      CollectionAssert.AreEqual(newList, result);
+     }
+
+     
+
     [TestMethod]
     public void IsWords_Array_Sorted()
     {

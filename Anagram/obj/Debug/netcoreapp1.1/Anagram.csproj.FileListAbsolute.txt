@@ -4,3 +4,12 @@
 /Users/Guest/Desktop/Anagram.Solution/Anagram/bin/Debug/netcoreapp1.1/Anagram.pdb
 /Users/Guest/Desktop/Anagram.Solution/Anagram/obj/Debug/netcoreapp1.1/Anagram.dll
 /Users/Guest/Desktop/Anagram.Solution/Anagram/obj/Debug/netcoreapp1.1/Anagram.pdb
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram\bin\Debug\netcoreapp1.1\Anagram.deps.json
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram\bin\Debug\netcoreapp1.1\Anagram.dll
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram\bin\Debug\netcoreapp1.1\Anagram.pdb
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram\obj\Debug\netcoreapp1.1\Anagram.csprojResolveAssemblyReference.cache
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram\obj\Debug\netcoreapp1.1\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram\obj\Debug\netcoreapp1.1\Anagram.AssemblyInfoInputs.cache
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram\obj\Debug\netcoreapp1.1\Anagram.AssemblyInfo.cs
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram\obj\Debug\netcoreapp1.1\Anagram.dll
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram\obj\Debug\netcoreapp1.1\Anagram.pdb

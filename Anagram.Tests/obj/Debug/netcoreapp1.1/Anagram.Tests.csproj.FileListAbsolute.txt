@@ -11,3 +11,18 @@
 /Users/Guest/Desktop/Anagram.Solution/Anagram.Tests/bin/Debug/netcoreapp1.1/Anagram.pdb
 /Users/Guest/Desktop/Anagram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.dll
 /Users/Guest/Desktop/Anagram.Solution/Anagram.Tests/obj/Debug/netcoreapp1.1/Anagram.Tests.pdb
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\obj\Debug\netcoreapp1.1\Anagram.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\obj\Debug\netcoreapp1.1\Anagram.Tests.AssemblyInfoInputs.cache
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\obj\Debug\netcoreapp1.1\Anagram.Tests.AssemblyInfo.cs
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\obj\Debug\netcoreapp1.1\Anagram.Tests.dll
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\obj\Debug\netcoreapp1.1\Anagram.Tests.pdb
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.Tests.deps.json
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.Tests.runtimeconfig.json
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.Tests.runtimeconfig.dev.json
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.Tests.dll
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.Tests.pdb
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.dll
+C:\Users\Murali Medisetty\Desktop\Anagram-CSharp\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.pdb

@@ -18,31 +18,23 @@ namespace AnagramA.Models
       }
 
     }
-    public static void wordsAnagramArray(string word, string[] words)
+    public static string[] getAnagrams(string word, string[] words)
     {
       word = InOrder(word);
-      string[] anagramFinal = new string[words.Length];
-      // Array.Copy(words,anagramFinal, words.Length);
-      for (int i = 0; i < words.Length; i++)
-      {
-        anagramFinal[i] = words[i];
-      }
-
-      // words[j]=InOrder(words[j]);
-
-      List<string> newList = new List<string>();
+      List<string> anagrams = new List<string>();
       for(int i=0; i < words.Length; i++)
       {
-        if(word == InOrder(words[i]))
+        var sortedWord = InOrder(words[i]);
+
+        if(word.Equals(sortedWord))
         {
-          newList.Add(anagramFinal[i]);
+          anagrams.Add(words[i]);
         }
       }
-      Console.WriteLine("your Anagram list:");
-      for (int i = 0; i < newList.Count; i++)
-      {
-        Console.WriteLine(newList[i]);
-      }
+
+      // List<string> --> string[]
+      // List<int> --> int[]
+      return anagrams.ToArray();
     }
 
     public static string InOrder(string word)
@@ -73,12 +65,11 @@ namespace AnagramA.Models
 
       }
       string[] list =  inputList.ToArray();
-      wordsAnagramArray(userInputword,list);
-      // for(int i=1;i<=userNumber;i++)
-      // {
-      //     string userOutput = CheckNumber(i);
-      //     Console.WriteLine(userOutput);
-      // }
+      var anagrams = getAnagrams(userInputword,list);
+      for(int i = 0; i< anagrams.Length; i++)
+      {
+          Console.WriteLine(anagrams[i]);
+      }
     }
 
   }
